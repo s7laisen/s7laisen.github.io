@@ -1,5 +1,6 @@
 ---
 title: "Web"
+format: html
 ---
 
 This is a Quarto website.
